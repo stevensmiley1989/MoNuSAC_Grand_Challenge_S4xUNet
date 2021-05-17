@@ -3,7 +3,7 @@ My Jupyter Notebook used for MoNuSAC Grand Challenge 2020
 ## By Steven Smiley
 
 This respository hosts the files I used to compete in the 2020 MoNuSAC Grand Challenge.
-![Final Leaderboard][https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/Results_MoNuSAC.png]
+![Final Leaderboard](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/Results_MoNuSAC.png)
 
 # Table of Contents to Repository 
 * [1. Jupyter Notebook](#1)
@@ -21,13 +21,13 @@ Jupyter Notebook(s) written in Python.
 | [stevensmiley1989_MoNuSAC_Entire_Code_5_15_2021.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/stevensmiley1989_MoNuSAC_Entire_Code_5_15_2021.ipynb) | My Jupyter notebook. |
 
 
+![Jupyter Noteboook Flowchart](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/stevensmiley1989_MoNuSAC_Flowchart.png)
 
-## [2 Inputs](https://github.com/stevensmiley1989/Cleveland_Dataset/tree/master/Inputs)<a class="anchor" id="2"></a>
+
+## [2 Inputs](<a class="anchor" id="2"></a>
  Website | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [https://monusac-2020.grand-challenge.org/Data/](https://monusac-2020.grand-challenge.org/Data/) | Data is on the host website for 2020 MoNuSAC Grand Challenge 
-
-![Jupyter Noteboook Flowchart](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/stevensmiley1989_MoNuSAC_Flowchart.png)
 
 
 ## [3 Output Images](https://github.com/stevensmiley1989/Cleveland_Dataset/tree/master/Outputs)<a class="anchor" id="3"></a>
