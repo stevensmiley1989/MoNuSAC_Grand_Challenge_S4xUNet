@@ -1,5 +1,4 @@
 # MoNuSAC_Grand_Challenge_S4xUNet
-My Jupyter Notebook used for MoNuSAC Grand Challenge 2020
 ## By Steven Smiley
 
 This respository hosts the files I used to compete in the 2020 MoNuSAC Grand Challenge.
