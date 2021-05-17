@@ -34,7 +34,7 @@ Jupyter Notebook(s) written in Python.
 
 1.	Verma, Ruchika & Kumar, Neeraj & Patil, Abhijeet & Kurian, Nikhil & Rane, Swapnil & Sethi, Amit. (2020). Multi-organ Nuclei Segmentation and Classification Challenge 2020. 10.13140/RG.2.2.12290.02244/1.[https://monusac-2020.grand-challenge.org]<a class="anchor" id="Ref_1"></a>  
 
-2. Ronneberger, O., Fischer, P., Brox, T.: U-Net: Convolutional networks for biomedical image segmentation. In: MICCAI. Springer [hhttps://arxiv.org/abs/1505.04597] <a class="anchor" id="Ref_2"></a>   
+2. Ronneberger, O., Fischer, P., Brox, T.: U-Net: Convolutional networks for biomedical image segmentation. In: MICCAI. Springer [https://arxiv.org/abs/1505.04597] <a class="anchor" id="Ref_2"></a>   
 
 3.  Python. a) Travis E. Oliphant. Python for Scientific Computing, Computing in Science & Engineering, 9, 10–20 (2007) b) K. Jarrod Millman and Michael Aivazis. Python for Scientists and Engineers, Computing in Science & Engineering, 13, 9–12 (2011) <a class="anchor" id="Ref_3"></a>    
 
