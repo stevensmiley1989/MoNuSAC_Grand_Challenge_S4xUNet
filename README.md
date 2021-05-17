@@ -10,10 +10,9 @@ This respository hosts the files I used to compete in the 2020 MoNuSAC Grand Cha
 # Table of Contents to Repository 
 * [1. Jupyter Notebook](#1)
 * [2. Inputs](#2)
-* [3. Repo Images](#3)
-* [4. Credits/References](#4)
-* [5. Contact-Info](#5)
-* [6. License](#6)
+* [3. Credits/References](#3)
+* [4. Contact-Info](#4)
+* [5. License](#5)
 
 ## 1 Jupyter Notebook<a class="anchor" id="1"></a>
 Jupyter Notebook(s) written in Python.
@@ -26,16 +25,13 @@ Jupyter Notebook(s) written in Python.
 ![Jupyter Noteboook Flowchart](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/stevensmiley1989_MoNuSAC_Flowchart.png)
 
 
-## [2 Inputs](<a class="anchor" id="2"></a>
+## 2 Inputs(<a class="anchor" id="2"></a>
  Website | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [https://monusac-2020.grand-challenge.org/Data/](https://monusac-2020.grand-challenge.org/Data/) | Data is on the host website for 2020 MoNuSAC Grand Challenge 
 
 
-## [3 Output Images](https://github.com/stevensmiley1989/Cleveland_Dataset/tree/master/Outputs)<a class="anchor" id="3"></a>
-The Outputs from the Jupyter notebook
-
-## 4 Credits/References<a class="anchor" id="4"></a>
+## 3 Credits/References<a class="anchor" id="4"></a>
 
 1.	Verma, Ruchika & Kumar, Neeraj & Patil, Abhijeet & Kurian, Nikhil & Rane, Swapnil & Sethi, Amit. (2020). Multi-organ Nuclei Segmentation and Classification Challenge 2020. 10.13140/RG.2.2.12290.02244/1.[https://monusac-2020.grand-challenge.org]<a class="anchor" id="Ref_1"></a>  
 
@@ -62,7 +58,8 @@ The Outputs from the Jupyter notebook
 12. Scikit-Learn. Fabian Pedregosa, Gaël Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron Weiss, Vincent Dubourg, Jake Vanderplas, Alexandre Passos, David Cournapeau, Matthieu Brucher, Matthieu Perrot, Édouard Duchesnay. Scikit-learn: Machine Learning in Python, Journal of Machine Learning Research, 12, 2825–2830 (2011) <a class="anchor" id="Ref_12"></a>   
 
 13.  Scikit-Image. Stéfan van der Walt, Johannes L. Schönberger, Juan Nunez-Iglesias, François Boulogne, Joshua D. Warner, Neil Yager, Emmanuelle Gouillart, Tony Yu and the scikit-image contributors. scikit-image: Image processing in Python, PeerJ 2:e453 (2014) <a class="anchor" id="Ref_13"></a>  
-## 5 Contact-Info<a class="anchor" id="5"></a>
+
+## 4 Contact-Info<a class="anchor" id="4"></a>
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -71,7 +68,7 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
-### 6 License <a class="anchor" id="6"></a>
+### 5 License <a class="anchor" id="5"></a>
 
 This repository contains a variety of content; some developed by Steven Smiley, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
