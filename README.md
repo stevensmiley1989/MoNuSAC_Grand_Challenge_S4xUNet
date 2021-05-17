@@ -24,7 +24,7 @@ Jupyter Notebook(s) written in Python.
 ![Jupyter Noteboook Flowchart](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/stevensmiley1989_MoNuSAC_Flowchart.png)
 
 
-## 2 Inputs(<a class="anchor" id="2"></a>
+## 2 Inputs<a class="anchor" id="2"></a>
  Website | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [https://monusac-2020.grand-challenge.org/Data/](https://monusac-2020.grand-challenge.org/Data/) | Data is on the host website for 2020 MoNuSAC Grand Challenge 
