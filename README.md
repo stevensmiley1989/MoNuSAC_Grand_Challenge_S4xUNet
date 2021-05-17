@@ -18,7 +18,7 @@ Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [stevensmiley1989_MoNuSAC_Entire_Code_5_15_2021.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/stevensmiley1989_MoNuSAC_Entire_Code_5_15_2021.ipynb) | My Jupyter notebook. |
+| [stevensmiley1989_MoNuSAC_Entire_Code_5_15_2021.ipynb](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/stevensmiley1989_MoNuSAC_Entire_Code_5_15_2021.ipynb) | My Jupyter notebook. |
 
 
 ![Jupyter Noteboook Flowchart](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/stevensmiley1989_MoNuSAC_Flowchart.png)
