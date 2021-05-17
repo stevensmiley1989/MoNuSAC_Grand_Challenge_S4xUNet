@@ -5,7 +5,7 @@ My Jupyter Notebook used for MoNuSAC Grand Challenge 2020
 This respository hosts the files I used to compete in the 2020 MoNuSAC Grand Challenge.
 ![Final Leaderboard](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/Results_MoNuSAC.png)
 
-![Validation Samples](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/stevensmiley1989_MoNuSAC_manuscript%204.png)
+![Validation Samples](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/stevensmiley1989_MoNuSAC_manuscript%204%20cropped.png)
 
 # Table of Contents to Repository 
 * [1. Jupyter Notebook](#1)
