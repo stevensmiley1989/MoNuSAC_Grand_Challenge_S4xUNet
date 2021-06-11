@@ -6,7 +6,7 @@ This respository hosts the files I used to compete in the 2020 MoNuSAC Grand Cha
 
 ![Validation Samples](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/stevensmiley1989_MoNuSAC_manuscript%204%20cropped.png)
 
-![Publication IEEE, "MoNuSAC2020: A Multi-organ Nuclei Segmentation and Classification Challenge"](https://ieeexplore.ieee.org/document/9446924)
+[Publication IEEE, "MoNuSAC2020: A Multi-organ Nuclei Segmentation and Classification Challenge"](https://ieeexplore.ieee.org/document/9446924)
 
 # Table of Contents to Repository 
 * [1. Jupyter Notebook](#1)
