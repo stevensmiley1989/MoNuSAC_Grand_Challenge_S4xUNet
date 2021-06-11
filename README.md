@@ -6,6 +6,8 @@ This respository hosts the files I used to compete in the 2020 MoNuSAC Grand Cha
 
 ![Validation Samples](https://github.com/stevensmiley1989/MoNuSAC_Grand_Challenge_S4xUNet/blob/main/Repo_Images/stevensmiley1989_MoNuSAC_manuscript%204%20cropped.png)
 
+![Publication IEEE, "MoNuSAC2020: A Multi-organ Nuclei Segmentation and Classification Challenge"](https://ieeexplore.ieee.org/document/9446924)
+
 # Table of Contents to Repository 
 * [1. Jupyter Notebook](#1)
 * [2. Inputs](#2)
@@ -57,6 +59,8 @@ Jupyter Notebook(s) written in Python.
 12. Scikit-Learn. Fabian Pedregosa, Gaël Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron Weiss, Vincent Dubourg, Jake Vanderplas, Alexandre Passos, David Cournapeau, Matthieu Brucher, Matthieu Perrot, Édouard Duchesnay. Scikit-learn: Machine Learning in Python, Journal of Machine Learning Research, 12, 2825–2830 (2011) <a class="anchor" id="Ref_12"></a>   
 
 13.  Scikit-Image. Stéfan van der Walt, Johannes L. Schönberger, Juan Nunez-Iglesias, François Boulogne, Joshua D. Warner, Neil Yager, Emmanuelle Gouillart, Tony Yu and the scikit-image contributors. scikit-image: Image processing in Python, PeerJ 2:e453 (2014) <a class="anchor" id="Ref_13"></a>  
+
+14.  R. Verma et al., "MoNuSAC2020: A Multi-organ Nuclei Segmentation and Classification Challenge," in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2021.3085712. <a class="anchor" id="Ref_14"></a>
 
 ## 4 Contact-Info<a class="anchor" id="4"></a>
 
